@@ -30,15 +30,15 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 
 ### Questions
 
-1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+1.  Who appears to be the sender? Security team
+2.  Does the email create urgency or pressure? Yes
+3.  Are there spelling or grammar mistakes? No
+4.  Does the link match the organisation domain? No
 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
+they look credible to the untrained eye and they're an easy way to get personal information
 ------------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
@@ -51,8 +51,8 @@ Hover over the link in the email (or copy link) and inspect the URL.
 
 ### Questions
 
-1.  Does the displayed link match the actual URL?
-2.  Are there unusual domain names?
+1.  Does the displayed link match the actual URL? no
+2.  Are there unusual domain names? yes
 
 ### Reflection
 
