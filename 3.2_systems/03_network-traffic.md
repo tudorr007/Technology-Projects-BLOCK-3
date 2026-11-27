@@ -27,13 +27,16 @@ Let the capture run for about 20 seconds.
 ### Questions
 
 1.  What types of traffic do you observe?
-2.  Can you identify IP addresses?
-3.  Do you see DNS queries?
+   TCP, UDP, DNS
+3.  Can you identify IP addresses?
+   Yes
+5.  Do you see DNS queries?
+   Yes
 
 ### Reflection
 
 Explain what network monitoring can reveal about system activity.
-
+helps us see what activities are happening on a computer and what devices it communicates with
 ------------------------------------------------------------------------
 
 ## Task 3 --- Security Discussion
@@ -41,8 +44,9 @@ Explain what network monitoring can reveal about system activity.
 ### Questions
 
 1.  Could sensitive information appear in network traffic?
-2.  Why is HTTPS important for protecting communications?
-
+   yes
+3.  Why is HTTPS important for protecting communications?
+   it encrypts data and protects sensitive information form attackers
 ### Reflection
 
 Describe what you learned about network visibility and security.
