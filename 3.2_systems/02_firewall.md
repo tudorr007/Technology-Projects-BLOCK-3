@@ -25,7 +25,9 @@ Run:
 ### Questions
 
 1.  What message appears after enabling the firewall?
-2.  Why are firewalls important?
+   Firewall is active and enabled on system startup
+3.  Why are firewalls important?
+   They protect computers from unauthorised acccess and suspicious network traffic
 
 ------------------------------------------------------------------------
 
@@ -43,7 +45,9 @@ Run:
 ### Questions
 
 1.  What rule was added?
-2.  Why must SSH be allowed?
+   rule was added to allow SSH connections through the network
+3.  Why must SSH be allowed?
+   it enables users to securely access and manage computers remotely over a network, without it, a firewall may block remote connections
 
 ### Reflection
 
