@@ -29,8 +29,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 **Questions**
 - Who can read this file?
+  only the user that created it
 - How does file permission protect confidentiality?
-
+  Only allows the user that created it to read and write the file
 ## Part 2 – Integrity
 
 1. Create a hash of the file.
