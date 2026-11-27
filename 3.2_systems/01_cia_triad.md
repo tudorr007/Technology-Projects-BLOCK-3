@@ -52,7 +52,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 ** Questions**
 - Did the hash change?
+  yes
 - Why do security systems use hashing?
+  to encrypt files and make them unreadable by just anyone
 
 
 # Part 3 – Availability
@@ -69,7 +71,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 **Questions**
 - Why is system uptime important?
+  to show that the system is up and running without any issues
 - What happens if a system is unavailable?
+  becomes vulnerable
 
 ## Deliverables
 Include:
