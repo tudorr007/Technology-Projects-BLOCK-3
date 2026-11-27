@@ -24,8 +24,11 @@ last
 
 ## Questions
 - What information appears in authentication logs?
+  usernames, login times, ip addresses and login attempts
 - Why are logs important in cybersecurity?
+  they help monitor activity, detect threats and investigate security problems
 - What might indicate suspicious activity?
+  repeated failed login attempts, unknown ip addressses
 
 
 ## Deliverables
